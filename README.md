@@ -26,7 +26,7 @@ Kaolin is a PyTorch library aiming to accelerate 3D deep learning research. Kaol
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
-## Functionality
+### Functionality
 
 <p align="center">
     <img src="assets/kaolin_applications.png">
